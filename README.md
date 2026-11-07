@@ -1,0 +1,1 @@
+#Quotex AI Signal Pro, यह एक Python आधारित ट्रेडिंग सिग्नल प्रोजेक्ट है।  Features  REAL Market, 1, 2 और 5 मिनट के विकल्प, RSI, EMA और MACD indicators, CALL और PUT signal display, और Android voice alerts Important यह ऐप लाभ या सिग्नल की सटीकता की गारंटी नहीं देता, और OTC डेटा 
